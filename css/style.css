@@ -1,0 +1,19 @@
+@import url("reset.css");
+@import url("fonts.css");
+@import url("https://fonts.googleapis.com/css2?family=BBH+Sans+Bartle:wght@400;700&display=swap");
+
+body {
+	background-color: whitesmoke;
+	font-family: 'BBH Sans Bartle', sans-serif;
+	font-size: 12px;
+}
+
+.header__logo {
+	font-size: 30px;
+
+}
+
+footer {
+	font-size: 20px;
+	text-align: center;
+}
